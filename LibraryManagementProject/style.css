@@ -1,0 +1,30 @@
+.btn{
+margin-right: 17px;
+
+}
+h1{
+    color:blue;
+}
+.h2{
+    text-align: center;  
+}
+.now,.container{
+    color: white;
+}
+form{
+    padding-left: 30px;
+}
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 7px;
+    margin-top: 20px;
+}
+.image{
+    margin: 10px;
+}
+.footer{
+    text-align: center;
+}
